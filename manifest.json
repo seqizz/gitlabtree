@@ -2,7 +2,7 @@
   "name": "GitLab - Tree view for code - sidebar version",
   "homepage_url": "https://github.com/seqizz/gitlabtree",
   "author": "Gurkan Gur",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "manifest_version": 2,
   "description": "Provides folder structure view for code in GitLab. Fork of Tomas Bonco's extension.",
   "icons": {
