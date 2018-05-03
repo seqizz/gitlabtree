@@ -12,6 +12,10 @@ Forked sidebar version:
 Original plugin:
 ![Image of plugin](https://github.com/tomasbonco/gitlabtree/blob/master/screenshot.png)
 
+##Installation
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/gitlab-tree-view-sidebar/)
+(You'll have to build for others. If you don't mind the sidebar change, just use the [original one](https://github.com/tomasbonco/gitlabtree))
+
 ## License
 
 MIT
