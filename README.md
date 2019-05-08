@@ -1,5 +1,7 @@
-GitLab code tree view (embed in sidebar fork)
+GitLab code tree view (embed in sidebar fork) - DEPRECATED
 =====================
+
+> Deprecated since new gitlab version already implemented this feature wrong way and rendered this extension unusable. And I don't have time to support this sadly. Also removed from firefox plugin hub.
 
 **Note: This is just a fork, created just to be able to use empty sidebar which original extension didn't use.**
 **Original work of Tomáš Bončo can be found in [here](https://github.com/tomasbonco/gitlabtree)**
